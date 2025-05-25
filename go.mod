@@ -3,7 +3,7 @@ module the-mentalist-quiz
 go 1.21
 
 require (
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/stretchr/testify v1.9.0
 )
 
